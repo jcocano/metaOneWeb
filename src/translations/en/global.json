@@ -1,0 +1,61 @@
+{
+    "navbar":{
+        "aboutUS": "About Us",
+        "services": "Services",
+        "values": "Values"
+    },
+    "headder":{
+        "headder-h1": "Blockchain & Web3",
+        "headder-h3": "Engineering",
+        "headder-btn": "Get in Touch",
+        "headder-social": "Social"
+    },
+    "section1":{
+        "h1": "We do not dev apps,",
+        "span": "we dev experiences.",
+        "h3": "We are a software company dedicated to provide solutions based on Web3 and Blockchain, accompanying the client from the planning process, design, execution and solution of a need."   
+    },
+    "section2":{
+        "goal": "Goal",
+        "goal-text": "Accelerate the adoption of Web3, the use of cryptography and blockchain across the internet to help humanity build the services and internet of the future.",
+        "mission": "Mission",
+        "mission-text": "To be the number one company providing Web3 and Blockchain solutions, diversifying and supporting these technologies for the reach of humanity.",
+        "vision": "Vision",
+        "vision-text": "To have a world where identity becomes personal and private again based on decentralization and Open Source."
+    },
+    "section3":{
+        "h1": "Our services",
+        "p": "The catalog of services we offer is personalized, depending on the client's needs.",
+        "p2": "The main ones are:",
+        "grid1": "Product Management",
+        "grid2": "Product Design",
+        "grid3": "Mobile Development",
+        "grid4": "Web Development",
+        "grid5": "QA & Testing",
+        "grid7": "Metaverse Immersion",
+        "grid6": "Backend & DevOps",
+        "grid8": "Blockchain Development"
+    },
+    "section4":{
+        "h1": "Our values",
+        "p": "We firmly believe that decentralization, security and traceability are going to make a better internet, we will work hard to build the way to the future of the web."
+    },
+    "carroucel":{
+        "one": "110%",
+        "loyalty": "Loyalty",
+        "compromise": "Compromise",
+        "honesty": "Honesty",
+        "teamwork": "Teamwork",
+        "community": "Community",
+        "modesty": "Modesty"
+    },
+    "section5":{
+        "h1": "Contact",
+        "p": "Become part of the Internet's future",
+        "name": "Name",
+        "lname": "Last Name",
+        "mail": "email",
+        "message": "Message",
+        "btn": "Send"
+    }
+}

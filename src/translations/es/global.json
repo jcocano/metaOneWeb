@@ -1,0 +1,61 @@
+{
+    "navbar":{
+        "aboutUS": "¿Quienes somos?",
+        "services": "Servicios",
+        "values": "Valores"
+    },
+    "headder":{
+        "headder-h1": "Blockchain & Web3",
+        "headder-h3": "Engineering",
+        "headder-btn": "Contáctanos",
+        "headder-social": "Social"
+    },
+    "section1":{
+        "h1": "No desarrollamos apps,",
+        "span": "desarrollamos experiencias.",
+        "h3": "Somos una empresa de software dedicada a dar soluciones basadas en Web3 y Blockchain, acompañando al cliente desde el proceso de planeación, diseño, ejecución y solución de una necesidad."   
+    },
+    "section2":{
+        "goal": "Objetivo",
+        "goal-text": "Acelerar la adopción de Web3, el uso de criptografía y blockchain a través del internet para ayudar a la humanidad a construir los servicios y el internet del futuro.",
+        "mission": "Misión",
+        "mission-text": "Ser la empresa numero uno brindando soluciones de Web3 y Blockchain, diversificando y apoyando estas tecnologías para al alcance de la humanidad.",
+        "vision": "Visión",
+        "vision-text": " Tener un mundo donde la identidad vuelva a ser personal y privada a base de la descentralización y al Open Source."
+    },
+    "section3":{
+        "h1": "Nuestros servicios",
+        "p": "El catalogo de servicios que manejamos es personalizado, dependiendo de la necesidad del cliente.",
+        "p2": "Los principales son:",
+        "grid1": "Product Management",
+        "grid2": "Product Design",
+        "grid3": "Mobile Development",
+        "grid4": "Web Development",
+        "grid5": "QA & Testing",
+        "grid7": "Metaverse Immersion",
+        "grid6": "Backend & DevOps",
+        "grid8": "Blockchain Development"
+    },
+    "section4":{
+        "h1": "Valores",
+        "p": "Creemos firmemente que la descentralización, la seguridad y la trazabilidad van hacer un mejor internet, nosotros trabajaremos duro para construir el camino al futuro de la web."
+    },
+    "carroucel":{
+        "one": "110%",
+        "loyalty": "Lealtad",
+        "compromise": "Compromiso",
+        "honesty": "Honestidad",
+        "teamwork": "Trabajo en Equipo",
+        "community": "Comunidad",
+        "modesty": "Humildad"
+    },
+    "section5":{
+        "h1": "Contacto",
+        "p": "Conviértete en parte del futuro del Internet",
+        "name": "Nombre",
+        "lname": "Apellido",
+        "mail": "Correo Electronico",
+        "message": "Mensaje",
+        "btn": "Enviar"
+    }
+}
